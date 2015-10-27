@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: b45201cad2b4075419593b60cfa64d66
+timeCreated: 1444381170
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: feet_0
+    21300002: feet_2
+    21300004: feet_4
+    21300006: feet_6
+    21300008: feet_8
+    21300010: feet_10
+    21300012: feet_13
+    21300014: feet_15
+    21300016: feet_17
+    21300018: feet_19
+    21300020: feet_21
+    21300022: feet_23
+    21300024: feet_25
+    21300026: feet_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: feet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 436
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 403
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 337
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 304
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 39
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feet_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 237
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

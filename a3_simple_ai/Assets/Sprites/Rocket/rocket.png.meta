@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 53fd6937694dd9241ba6eabac40e50f9
+timeCreated: 1444466110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rocket_0
+    21300002: rocket_1
+    21300004: rocket_2
+    21300006: rocket_4
+    21300008: rocket_7
+    21300010: rocket_8
+    21300012: rocket_9
+    21300014: rocket_13
+    21300016: rocket_14
+    21300018: rocket_15
+    21300020: rocket_3
+    21300022: rocket_5
+    21300024: rocket_6
+    21300026: rocket_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rocket_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 210
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 157
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 184
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 129
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 151
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 102
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocket_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 190
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
