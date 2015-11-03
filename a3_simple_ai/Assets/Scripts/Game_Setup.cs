@@ -249,15 +249,4 @@ public class Game_Setup : MonoBehaviour {
 		//Call again in 5 seconds
 		Invoke("Spawn_Random_Zombie", 5);
 	}
-
-	/*public void Increment_Score()
-	{
-		score++;
-		Update_Score();
-	}
-
-	void Update_Score()
-	{
-		score_text.text = "Kills: " + score;
-	}*/
 }

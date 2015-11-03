@@ -89,4 +89,10 @@ public class Player_Control : MonoBehaviour {
 	{
 		Application.LoadLevel(0);
 	}
+
+	//Public accessor to see if the player is dead
+	public bool Is_Dead()
+	{
+		return dead;
+	}
 }

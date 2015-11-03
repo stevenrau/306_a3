@@ -13,19 +13,6 @@ public class Zombie_Spawn : MonoBehaviour {
 		spawn_ready = true;
 	}
 	
-	// Update is called once per frame
-	void Update ()
-	{
-		if (spawn_ready)
-		{
-			/*Instantiate(zombie_prefab, transform.position, transform.rotation);
-			
-			//Wait 5 sec to spawn another zombie
-			spawn_ready = false;
-			Invoke("Signal_Spawn_Ready", 5);*/
-		}
-	}
-	
 	public void Signal_Spawn_Ready()
 	{
 		spawn_ready = true;
@@ -33,6 +20,8 @@ public class Zombie_Spawn : MonoBehaviour {
 
 	public void Spawn_Zombie()
 	{
-		Instantiate(zombie_prefab, transform.position, transform.rotation);
+		GameObject zombie = (GameObject)Instantiate(zombie_prefab, transform.position, transform.rotation);
+
+		zombie.GetComponent<Zombie_AI>().Set_Spawn_Point(gameObject.transform.position);
 	}
 }
